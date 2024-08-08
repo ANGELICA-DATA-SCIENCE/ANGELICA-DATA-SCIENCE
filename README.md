@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ANGELICA-DATA-SCIENCE 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👋 @ANGELICA-DATA-SCIENCE 
+  
 - 💞️ He colaborado en algunos proyectos relacionados al análisis de datos.
 - Uno de los proyectos o retos han sido en la Inmersión de Data Science de Alura LATAM.
 - En cada clase hay un desafios que cumplir para después ingresar a una mentoria por parte de los instructores.
